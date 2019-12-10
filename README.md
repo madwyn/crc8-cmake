@@ -25,5 +25,5 @@ add_subdirectory(crc8-cmake)
 3. Link the target
 
 ```
-target_link_libraries(example_app aes_Gladman)
+target_link_libraries(example_app crc8)
 ```
